@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+1. Crear repo en GitHub
+3. Iniciar el repo en una nueva carpeta en el escritorio con el mismo nombre del repo
+5. "build:prod": "ng build --configuration=production --base-href=/github-automated", AGREGO ESTO EN EL package.json
+4. Subir cambios
+6. Genero un nuevo token en mi cuenta de GitHub
+7. Nos vamos a settings del repo, secrets and variables y a actions
+8. New repository secret y ahi pego el token generado
+9. Creo un archivo llamado main.yaml en .github/workflows
+
+
+
