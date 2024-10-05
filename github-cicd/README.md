@@ -36,6 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 7. Nos vamos a settings del repo, secrets and variables y a actions
 8. New repository secret y ahi pego el token generado
 9. Creo un archivo llamado main.yaml en .github/workflows
+10. Creo una rama llamada prod con git checkout -b prod en la ruta raiz
 
 
 
